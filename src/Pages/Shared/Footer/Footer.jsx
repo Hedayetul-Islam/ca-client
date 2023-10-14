@@ -9,7 +9,7 @@ const Footer = () => {
                 <footer className="footer p-10">
                     <aside>
                         <img src={logo} alt="" />
-                        <p>India's first platform dedicated to <br /> simplifying partner search</p>
+                        <p>India;s first platform dedicated to <br /> simplifying partner search</p>
                     </aside>
                     <nav>
                         <header className="font-bold text-white text-lg">Company</header>
