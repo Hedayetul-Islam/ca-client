@@ -48,7 +48,7 @@ const NavBar = () => {
                             {navOptions}
                         </ul>
                     </div>
-                    <Link className="btn btn-ghost normal-case text-xl"><img src={logo} alt="" /></Link>
+                    <Link to='/' className="btn btn-ghost normal-case text-xl"><img src={logo} alt="" /></Link>
                 </div>
                 <div className="navbar-center hidden text-black font-bold lg:flex">
                     <ul className="menu menu-horizontal px-1">
