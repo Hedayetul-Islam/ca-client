@@ -1,0 +1,50 @@
+[
+    {
+        "_id": 1,
+        "name": "Commencement of business ",
+        "position": "1st",
+        "description": "Invested shareholders must confirm payment and office address ",
+        "dueDate": "Within 180 days",
+        "penaltyFees": "₹50,000 for the company"
+    },
+    {
+        "_id": 2,
+        "name": "Auditor Appointment",
+        "position": "2nd",
+        "description": "Company informs new auditor and submits ADT.1 form to ROC.",
+        "dueDate": "Within 30 days",
+        "penaltyFees": "₹300 per month."
+    },
+    {
+        "_id": 3,
+        "name": "DIN eKYC",
+        "position": "3rd",
+        "description": "Directors share personal information for identification & verification ",
+        "dueDate": "Every Year",
+        "penaltyFees": "₹5000 one time"
+    },
+    {
+        "_id": 4,
+        "name": "DPT-3",
+        "position": "4th",
+        "description": "Companies report money taken from people to ROC; auditors confirm details.",
+        "dueDate": "Within 30 days",
+        "penaltyFees": "₹300 per month."
+    },
+    {
+        "_id": 5,
+        "name": "MCA Form AOC-4",
+        "position": "5th",
+        "description": "It's like an official report card for a company's documents",
+        "dueDate": "On or Before 30th November ",
+        "penaltyFees": "₹200 per day (No upper limit)*"
+    },
+    {
+        "_id": 6,
+        "name": "MCA Form MGT-7",
+        "position": "6th",
+        "description": "Companies must annually report activities and finances to the registrar.",
+        "dueDate": "On or Before 31st December",
+        "penaltyFees": "₹200 per day(No upper limit)*"
+    }
+]
