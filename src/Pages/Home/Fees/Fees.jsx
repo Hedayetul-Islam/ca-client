@@ -12,7 +12,7 @@ const Fees = () => {
     }, [])
 
     return (
-        <div className="lg:px-36 lg:py-24 bg-gradient-to-b from-[#FAFBFC] to-[#FAFBFC]">
+        <div className="lg:px-36 lg:p-0 p-8 bg-cover lg:py-24 bg-gradient-to-r from-[#FAFBFC] to-[#FAFBFC]" style={{backgroundImage: 'url(https://i.ibb.co/QNv2hx1/Vector-13.png)'}}>
             <h1 className="text-center text-6xl font-bold text-black">Want to <span className="bg-gradient-to-r from-[#0076CE] to-[#9400D3] bg-clip-text text-transparent">Join</span> Us?</h1>
             <p className="text-center text-black py-8 text-xl">To remain with us, it is essential that you diligently follow the steps provided</p>
             <div className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-10 pt-10">

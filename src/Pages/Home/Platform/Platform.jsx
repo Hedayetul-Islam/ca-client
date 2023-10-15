@@ -8,7 +8,7 @@ import student from '../../../assets/Student.png'
 
 const Platform = () => {
     return (
-        <div className='flex px-36 py-24 items-center'>
+        <div className='lg:flex lg:px-36 lg:py-24 lg:p-0 p-4 items-center'>
             <div>
                 <h1 className='text-6xl font-bold text-black'><span className='bg-gradient-to-r from-[#0076CE] to-[#9400D3] bg-clip-text text-transparent'>All-in-One</span> platform that Makes Easier</h1>
                 <p className='text-black pr-20 py-12'>We are more than a platform; We are your success partner. <br /> Discover our services to achieve your business and educational goals</p>
@@ -32,7 +32,7 @@ const Platform = () => {
                 </div>
             </div>
             <div>
-                <div className='flex'>
+                <div className='lg:flex'>
                     <div>
                         <div className="chat chat-start">
                             <div className="chat-bubble chat-bubble-primary">What kind of nonsense is this</div>
